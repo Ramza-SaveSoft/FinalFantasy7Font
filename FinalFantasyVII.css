@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Final Fantasy VII';
+    src: url('FinalFantasyVII.woff2') format('woff2'),
+        url('FinalFantasyVII.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
